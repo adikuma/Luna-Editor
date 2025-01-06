@@ -93,7 +93,3 @@ uvicorn main:app --reload
 - POST request
 - Parameters: prompt (string)
 - Returns: Generated image URL
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
