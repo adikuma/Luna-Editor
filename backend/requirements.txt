@@ -1,0 +1,9 @@
+fastapi
+python-multipart
+pillow
+python-dotenv
+uvicorn
+requests
+python-jose
+pydantic
+pydantic-settings
